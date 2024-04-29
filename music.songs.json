@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "65e76cea90d0e09493526b04"
+  },
+  "title": "cancion_1",
+  "genre": "genre_1",
+  "album": "album_1",
+  "duration": 1,
+  "year": 1,
+  "trackNumber": 1,
+  "isExplicit": true
+},
+{
+  "_id": {
+    "$oid": "65e76cea90d0e09493526b05"
+  },
+  "title": "cancion_2",
+  "genre": "genre_2",
+  "album": "album_2",
+  "duration": 2,
+  "year": 2,
+  "trackNumber": 2,
+  "isExplicit": true
+},
+{
+  "_id": {
+    "$oid": "65e76d4f90d0e09493526b06"
+  },
+  "title": "cancion_3",
+  "genre": "genre_3",
+  "album": "album_3",
+  "duration": 3,
+  "year": 3,
+  "trackNumber": 3,
+  "isExplicit": true
+},
+{
+  "_id": {
+    "$oid": "65e76d4f90d0e09493526b07"
+  },
+  "title": "cancion_4",
+  "genre": "genre_4",
+  "album": "album_4",
+  "duration": 4,
+  "year": 4,
+  "trackNumber": 4,
+  "isExplicit": false
+},
+{
+  "_id": {
+    "$oid": "65e76d4f90d0e09493526b08"
+  },
+  "title": "cancion_5",
+  "genre": "genre_5",
+  "album": "album_5",
+  "duration": 5,
+  "year": 5,
+  "trackNumber": 5,
+  "isExplicit": false
+},
+{
+  "_id": {
+    "$oid": "65e76d4f90d0e09493526b09"
+  },
+  "title": "cancion_6",
+  "genre": "genre_6",
+  "album": "album_6",
+  "duration": 6,
+  "year": 6,
+  "trackNumber": 6,
+  "isExplicit": true
+}]
